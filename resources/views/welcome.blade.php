@@ -2,11 +2,11 @@
 <html>
 
 <head>
-    <title>Welcome to Laravel</title>
+    <title>Welcome to THE FUTURE</title>
 </head>
 
 <body>
-    <h1>Hello, World... from mwiko</h1>
+    <h1>Hello, World... from Mwiko</h1>
 
 
 </body>
