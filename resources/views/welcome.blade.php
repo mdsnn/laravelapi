@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <h1>Hello, World.. from mwiko</h1>
+    <h1>Hello, World... from mwiko</h1>
 
 
 </body>
