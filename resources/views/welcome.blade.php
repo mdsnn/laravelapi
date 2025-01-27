@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Welcome to THE FUTURE!!!</title>
+    <title>Welcome to THE FUTURE</title>
 </head>
 
 <body>
