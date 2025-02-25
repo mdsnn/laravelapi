@@ -15,7 +15,3 @@ Route::get('/dashboard', function (Request $request) {
     return $request->user();
 })->middleware('auth:sanctum');
 
-Route::get('/message', function (Request $request) {
-    return $request->user();
-})->middleware('auth:sanctum');
-
