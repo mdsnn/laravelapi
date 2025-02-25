@@ -19,3 +19,6 @@ Route::get('/messages', function (Request $request) {
     return $request->user();
 })->middleware('auth:sanctum');
 
+Route::get('/notify', function (Request $request) {
+    return $request->user();
+})->middleware('auth:sanctum');
