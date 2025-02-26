@@ -23,6 +23,3 @@ Route::get('/notify', function (Request $request) {
     return $request->user();
 })->middleware('auth:sanctum');
 
-Route::get('/likes', function (Request $request) {
-    return $request->user();
-})->middleware('auth:sanctum');
